@@ -1,0 +1,7 @@
+IDS,#,Component,Properties
+U1,1,Arduino Uno R3  The official Arduino Uno Rev3,
+"T1, T2",2,NPN Transistor (BJT)  A bipolar junction used for amplifying or switching electronic signals. This type of BJT (Bipolar Junction) needs a positive current in the base terminal.,
+R3,1,"1 kohm Resistor  Resist the flow of electrical energy in a circuit, changing the voltage and current as a result. ",1 kohm
+"R2, R1",2,"39 ohm Resistor Resist the flow of electrical energy in a circuit, changing the voltage and current as a result. ",39 ohm
+"DHigh Power IR LED1, DHigh Power IR LED2",2,High power IR Led,"650 red[[""green"",""Green""],[""yellow"",""Yellow""],[""orange"",""Orange""],[""blue"",""Blue""],[""red"",""Red""]]"
+PIRMotion Sensor,1,PIR Sensor  Passive infrared motion sensor. Outputs a high-signal when motion is detected in its field of view. ,
