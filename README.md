@@ -6,3 +6,5 @@ motion is detected, and turn them off a minute after motion has stopped.
 You can find the candles here: http://amzn.to/2jvCgCT
 
 They need to be Mirage candles with the remote control feature.
+
+It requires this Arduino library: https://github.com/lpasqualis/TimedBlink
